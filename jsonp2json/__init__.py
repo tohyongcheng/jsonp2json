@@ -1,1 +1,1 @@
-from jsonp2json import convert
+from .jsonp2json import convert
